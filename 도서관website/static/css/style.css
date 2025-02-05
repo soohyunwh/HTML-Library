@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: rgb(245, 147, 216);
+    padding: 10px;
+    color: floralwhite;
+}
+
+nav a {
+    color: beige;
+    margin: 10px;
+    text-decoration: none;
+}
+input {
+    padding: 5px;
+    width: 200px;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: #0073e6;
+    color: floralwhite;
+    border: none;
+    cursor: pointer;
+}
